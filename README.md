@@ -2,8 +2,10 @@
 
 1. Kita buat flowchat nya terlebih dahulu, bisa di lihat gambar berikut
 - Luas
+
 ![img](img/Luas.png)
 - Keliling
+
 ![img](img/keliling.png)
 
 2. Masuk ke program
